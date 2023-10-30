@@ -12,23 +12,23 @@ new Vue({
         {
           name: "Deva shree Ganesha",
           artist: "Ajay-Atul",
-          cover: "img/a.jpg",
-          source: "../mp3/a.mp3",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/a.jpg",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/a.mp3",
           url: "https://www.youtube.com/watch?v=RYqJ5w-GrfM",
           favorited: true
         },
         {
           name: "Shwasat Raja Dhyasat Raja..",
           artist: "Avadhoot Gandhi",
-          cover: "../img/s.jpg",
-          source: "../mp3/s.mp3",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/s.jpg",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/s.mp3",
           url: "https://www.youtube.com/watch?v=7svhUsjZbbY",
           favorited: true
         },
         {
           name: "Heat waves",
           artist: "Glass Animals",
-          cover: "../img/h.jpg",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/h.jpg",
           source: "../mp3/h.mp3",
           url: "https://www.youtube.com/watch?v=mRD0-GxqHVo",
           favorited: true
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "Rise up",
           artist: "Imagine Dragons",
-          cover: "../img/i.jpg",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/i.jpg",
           source:"../mp3/i.mp3",
           url: "https://www.youtube.com/watch?v=x12CWu3V0lg",
           favorited: true
@@ -44,7 +44,7 @@ new Vue({
         {
           name: "Vikram",
           artist: "Anirudh Ravicharan",
-          cover: "../img/v.jpg",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/v.jpg",
           source: "../mp3/v.mp3",
           url: "https://www.youtube.com/watch?v=w7shUeR3-Go",
           favorited: true
@@ -52,7 +52,7 @@ new Vue({
         {
           name: "Hanuman Rhythm",
           artist: "Bass Rebellion",
-          cover: "../img/b.jpg",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/b.jpg",
           source: "../mp3/b.mp3",
           url: "https://www.youtube.com/watch?v=FpkN_V0MYOk",
           favorited: true
@@ -60,7 +60,7 @@ new Vue({
         {
           name: "Playing With Fire 🔥",
           artist: "BlackPink",
-          cover: "../img/4.jpeg",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/4.jpeg",
           source: "../mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=9pdj4iJD08s&ab_channel=BLACKPINK",
           favorited: false
@@ -68,7 +68,7 @@ new Vue({
         {
           name: "Dynamite",
           artist: "BTS",
-          cover: "../img/7.jpeg",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/7.jpeg",
           source: "../mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=gdZLi9oWNZg&ab_channel=HYBELABELS",
           favorited: true
@@ -76,7 +76,7 @@ new Vue({
         {
           name: "DNA",
           artist: "BTS",
-          cover: "../img/8.jpeg",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/8.jpeg",
           source: "../mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS",
           favorited: false
@@ -84,7 +84,7 @@ new Vue({
         {
           name: "Butter",
           artist: "BTS",
-          cover: "../img/9.jpeg",
+          cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/9.jpeg",
           source: "../mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=WMweEpGlu_U&ab_channel=HYBELABELS",
           favorited: false
