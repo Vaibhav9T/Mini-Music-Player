@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Deva shree Ganesha",
           artist: "Ajay-Atul",
-          cover: "../img/a.jpg",
+          cover: "img/a.jpg",
           source: "../mp3/a.mp3",
           url: "https://www.youtube.com/watch?v=RYqJ5w-GrfM",
           favorited: true
