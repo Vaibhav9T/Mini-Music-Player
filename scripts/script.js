@@ -12,7 +12,7 @@ new Vue({
         {
           name: "Deva shree Ganesha",
           artist: "Ajay-Atul",
-          cover: "https://drive.google.com/drive/folders/1pCIlWx5NsxvNZv3Ue34U7JfV4YM6dzvX",
+          cover: "https://drive.google.com/file/d/15ee0lkefep-HIqlb4b8bLdlGIqScxNEU/view?usp=drive_link",
           source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/a.mp3",
           url: "https://www.youtube.com/watch?v=RYqJ5w-GrfM",
           favorited: true
