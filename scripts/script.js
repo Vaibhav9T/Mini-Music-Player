@@ -29,7 +29,7 @@ new Vue({
           name: "Heat waves",
           artist: "Glass Animals",
           cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/h.jpg",
-          source: "../mp3/h.mp3",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/h.mp3",
           url: "https://www.youtube.com/watch?v=mRD0-GxqHVo",
           favorited: true
         },
@@ -37,7 +37,7 @@ new Vue({
           name: "Rise up",
           artist: "Imagine Dragons",
           cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/i.jpg",
-          source:"../mp3/i.mp3",
+          source:"https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/i.mp3",
           url: "https://www.youtube.com/watch?v=x12CWu3V0lg",
           favorited: true
         },
@@ -45,7 +45,7 @@ new Vue({
           name: "Vikram",
           artist: "Anirudh Ravicharan",
           cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/v.jpg",
-          source: "../mp3/v.mp3",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/v.mp3",
           url: "https://www.youtube.com/watch?v=w7shUeR3-Go",
           favorited: true
         },
@@ -53,7 +53,7 @@ new Vue({
           name: "Hanuman Rhythm",
           artist: "Bass Rebellion",
           cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/b.jpg",
-          source: "../mp3/b.mp3",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/b.mp3",
           url: "https://www.youtube.com/watch?v=FpkN_V0MYOk",
           favorited: true
         },
@@ -61,7 +61,7 @@ new Vue({
           name: "Playing With Fire 🔥",
           artist: "BlackPink",
           cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/4.jpeg",
-          source: "../mp3/4.mp3",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/4.mp3",
           url: "https://www.youtube.com/watch?v=9pdj4iJD08s&ab_channel=BLACKPINK",
           favorited: false
         },
@@ -69,7 +69,7 @@ new Vue({
           name: "Dynamite",
           artist: "BTS",
           cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/7.jpeg",
-          source: "../mp3/7.mp3",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/7.mp3",
           url: "https://www.youtube.com/watch?v=gdZLi9oWNZg&ab_channel=HYBELABELS",
           favorited: true
         },
@@ -77,7 +77,7 @@ new Vue({
           name: "DNA",
           artist: "BTS",
           cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/8.jpeg",
-          source: "../mp3/8.mp3",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/8.mp3",
           url: "https://www.youtube.com/watch?v=MBdVXkSdhwU&ab_channel=HYBELABELS",
           favorited: false
         },
@@ -85,7 +85,7 @@ new Vue({
           name: "Butter",
           artist: "BTS",
           cover: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/img/9.jpeg",
-          source: "../mp3/9.mp3",
+          source: "https://github.com/Vaibhav9T/Mini-Music-Player/blob/main/mp3/9.mp3",
           url: "https://www.youtube.com/watch?v=WMweEpGlu_U&ab_channel=HYBELABELS",
           favorited: false
         }
